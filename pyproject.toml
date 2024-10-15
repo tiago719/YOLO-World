@@ -30,7 +30,7 @@ requires-python = ">= 3.7"
 dependencies = [
     "wheel",
     "torch>=1.11.0",
-    "torchvision>=0.16.2",
+    "torchvision>=0.15.2",
     "transformers",
     "tokenizers",
     "numpy",
